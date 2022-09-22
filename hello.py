@@ -10,3 +10,4 @@ name = myname.getName()
 
 print("Hello Git!")
 print(f"hello {name}!")
+print("This is an output feature")
